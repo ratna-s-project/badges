@@ -1,1 +1,1 @@
-const pair = "extro";
+const pair = "2extro";
